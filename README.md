@@ -22,21 +22,6 @@ Steep 2:
         implementation "com.github.rzrasel:proandroidjavaaudiorecorder:0.0.1"
     }
 
-```
-allprojects { 
-    repositories { 
-        ... 
-        maven { url "https://jitpack.io" } 
-    } 
-}
-```
-
-```
-dependencies {
-    implementation "com.github.rzrasel:proandroidjavaaudiorecorder:0.0.1"
-}
-```
-
 A Simple Pcm / Wav audio recorder with nice api.
 
 * Record Pcm audio
